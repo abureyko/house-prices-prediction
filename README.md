@@ -15,4 +15,4 @@ ML model to predict house prices based on features like area, bedrooms, location
 
 ## 📈 Key Insights
 - Area and price per sqft are most important factors
-- Random Forest outperformed Linear Regression by 35%
+- Random Forest outperformed Linear Regression by 35% on MAE
